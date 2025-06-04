@@ -20,7 +20,7 @@ COPASI (for simulation and visualization)
 Alternatively, any SBML-compatible simulation tool
 Usage
 Download or clone this repository:
-git clone https://github.com/YOUR-USERNAME/ATM-ATR-DDR-DrugRepositioning-Model.git
+git clone https://github.com/francescopappalardo/ATM-ATR-DDR-DrugRepositioning-Model.git
 Open AT_ATM_ATR_forDR_v1.xml in COPASI or your preferred SBML tool.
 Run time-course simulations, modify kinetic parameters, or explore drug effects by adjusting Omaveloxolone and Spermidine concentrations.
 Model Structure
